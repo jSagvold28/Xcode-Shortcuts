@@ -11,3 +11,5 @@
 ## Command + N = create a new file
 
 ## Option + Command + N = Creates a new group (folder)
+
+## Command + B = Build
